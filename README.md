@@ -1,6 +1,2 @@
----
-description: The Pugh lab manual
----
-
-# Welcome
+# Welcome Pughies!
 
